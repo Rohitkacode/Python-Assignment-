@@ -1,0 +1,4 @@
+
+Yes its value will be changed.
+
+Reason : Variables in Python are dynamically typed, which implies that its data type is determined at runtime based on the value that has been assigned to it. So when a new value of different data type is assigned to a variable, the previous value is overwritten and variable's data type is now the new value.

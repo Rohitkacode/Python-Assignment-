@@ -1,0 +1,19 @@
+ans_1 = Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+TypeError: 'int' object is not iterable
+
+
+ans_2 = 
+0
+error
+1
+error
+2
+
+ans_3 = 
+
+0
+1
+2
+3
+4
